@@ -1,268 +1,406 @@
-Name: CCTV-1, URL: http://115.230.189.151:9999/udp/233.50.201.222:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 459ms
-Name: CCTV-1, URL: http://113.220.232.121:9999/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 490ms
-Name: CCTV-1, URL: http://175.0.35.92:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: CCTV-1, URL: http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 531ms
-Name: CCTV-1, URL: http://111.8.224.6:8085/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1806ms
-Name: CCTV-2, URL: http://58.20.77.74:9002/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: CCTV-2, URL: http://113.220.232.121:9999/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 490ms
-Name: CCTV-2, URL: http://1.70.34.145:8083/udp/239.1.1.8:8008, Date: 10-29-2024, Resolution:  山西省长治市 • 組播源, Response Time: 500ms
-Name: CCTV-2, URL: http://175.0.35.92:8081/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 511ms
-Name: CCTV-2, URL: http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 612ms
-Name: CCTV-2, URL: http://111.8.224.6:8085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1709ms
-Name: CCTV-3, URL: http://58.20.77.74:9002/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: CCTV-3, URL: http://183.149.180.183:9999/udp/233.50.201.196:5140, Date: 10-29-2024, Resolution:  浙江省台州市 • 組播源, Response Time: 468ms
-Name: CCTV-3, URL: http://113.220.232.121:9999/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 490ms
-Name: CCTV-3, URL: http://175.0.35.92:8081/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: CCTV-3, URL: http://111.8.224.6:8085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1481ms
-Name: CCTV-4, URL: http://58.20.77.74:9002/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 449ms
-Name: CCTV-4, URL: http://115.230.189.151:9999/udp/233.50.200.101:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 459ms
-Name: CCTV-4, URL: http://175.0.35.92:8081/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: CCTV-4, URL: http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 538ms
-Name: CCTV-4, URL: http://111.8.224.6:8085/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1331ms
-Name: CCTV-5, URL: http://58.20.77.74:9002/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: CCTV-5, URL: http://115.230.189.151:9999/udp/233.50.201.197:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 458ms
-Name: CCTV-5, URL: http://113.220.232.121:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 490ms
-Name: CCTV-5, URL: http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 504ms
-Name: CCTV-5, URL: http://175.0.35.92:8081/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: CCTV-5, URL: http://111.8.224.6:8085/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 840ms
-Name: CCTV-5+, URL: http://106.116.3.60:8890/rtp/239.254.200.46:8004, Date: 10-29-2024, Resolution:  河北省唐山市 • 組播源, Response Time: 542ms
-Name: CCTV-5+, URL: http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 588ms
-Name: CCTV-5+, URL: http://111.8.224.6:8085/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1391ms
-Name: CCTV-6, URL: http://58.20.77.74:9002/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 447ms
-Name: CCTV-6, URL: http://113.220.232.121:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 490ms
-Name: CCTV-6, URL: http://175.0.35.92:8081/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: CCTV-6, URL: http://202.100.46.58:9901/tsfile/live/1005_1.m3u8, Date: None, Resolution: None, Response Time: 525ms
-Name: CCTV-6, URL: http://1.70.32.208:8083/udp/239.1.1.13:8013, Date: 10-29-2024, Resolution:  山西省长治市 • 組播源, Response Time: 567ms
-Name: CCTV-6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1145ms
-Name: CCTV-6, URL: http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1273ms
-Name: CCTV-6, URL: http://111.8.224.6:8085/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1296ms
-Name: CCTV-7, URL: http://58.20.77.74:9002/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: CCTV-7, URL: http://115.58.178.165:58888/rtp/225.1.4.76:1105, Date: 10-29-2024, Resolution:  河南省驻马店市 • 組播源, Response Time: 462ms
-Name: CCTV-7, URL: http://113.220.232.121:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 491ms
-Name: CCTV-7, URL: http://175.0.35.92:8081/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: CCTV-7, URL: http://116.128.242.83:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 619ms
-Name: CCTV-7, URL: http://111.8.224.6:8085/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 938ms
-Name: CCTV-8, URL: http://58.20.77.74:9002/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 462ms
-Name: CCTV-8, URL: http://49.83.250.201:10001/rtp/239.49.9.34:6000, Date: 10-29-2024, Resolution:  江苏省盐城市 • 組播源, Response Time: 463ms
-Name: CCTV-8, URL: http://113.220.232.121:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 485ms
+Name: CCTV-1, URL: http://121.233.190.83:8600/rtp/239.49.8.129:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 486ms
+Name: CCTV-1, URL: http://121.233.190.83:8600/rtp/239.49.8.129:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 491ms
+Name: CCTV-1, URL: http://125.126.204.181:9999/udp/233.50.200.99:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 494ms
+Name: CCTV-1, URL: http://175.0.35.92:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 546ms
+Name: CCTV-1, URL: http://113.220.232.121:9999/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 547ms
+Name: CCTV-1, URL: http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 556ms
+Name: CCTV-1, URL: http://111.8.224.6:8085/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 650ms
+Name: CCTV-2, URL: http://58.20.77.74:9002/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 480ms
+Name: CCTV-2, URL: http://125.126.204.181:9999/udp/233.50.200.100:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 488ms
+Name: CCTV-2, URL: http://125.126.204.181:9999/udp/233.50.200.100:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 493ms
+Name: CCTV-2, URL: http://125.126.204.181:9999/udp/233.50.200.100:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 500ms
+Name: CCTV-2, URL: http://175.0.35.92:8081/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 518ms
+Name: CCTV-2, URL: http://113.220.232.121:9999/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 541ms
+Name: CCTV-2, URL: http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 647ms
+Name: CCTV-2, URL: http://111.8.224.6:8085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 830ms
+Name: CCTV-3, URL: http://58.20.77.74:9002/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 480ms
+Name: CCTV-3, URL: http://125.126.204.181:9999/udp/233.50.200.107:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 496ms
+Name: CCTV-3, URL: http://125.126.204.181:9999/udp/233.50.200.107:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 500ms
+Name: CCTV-3, URL: http://125.126.204.181:9999/udp/233.50.200.107:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 503ms
+Name: CCTV-3, URL: http://175.0.35.92:8081/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 518ms
+Name: CCTV-3, URL: http://113.220.232.121:9999/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 542ms
+Name: CCTV-3, URL: http://111.8.224.6:8085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 736ms
+Name: CCTV-4, URL: http://58.20.77.74:9002/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 480ms
+Name: CCTV-4, URL: http://121.233.190.83:8600/rtp/239.49.8.131:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 483ms
+Name: CCTV-4, URL: http://121.233.190.83:8600/rtp/239.49.8.131:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 489ms
+Name: CCTV-4, URL: http://125.126.204.181:9999/udp/233.50.200.101:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 492ms
+Name: CCTV-4, URL: http://175.0.35.92:8081/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 520ms
+Name: CCTV-4, URL: http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 575ms
+Name: CCTV-4, URL: http://111.8.224.6:8085/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 629ms
+Name: CCTV-5, URL: http://58.20.77.74:9002/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 481ms
+Name: CCTV-5, URL: http://125.126.204.181:9999/udp/233.50.200.108:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 488ms
+Name: CCTV-5, URL: http://125.126.204.181:9999/udp/233.50.200.108:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 492ms
+Name: CCTV-5, URL: http://125.126.204.181:9999/udp/233.50.201.197:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 500ms
+Name: CCTV-5, URL: http://175.0.35.92:8081/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 518ms
+Name: CCTV-5, URL: http://113.220.232.121:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 542ms
+Name: CCTV-5, URL: http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 584ms
+Name: CCTV-5, URL: http://111.8.224.6:8085/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 606ms
+Name: CCTV-5+, URL: http://125.126.204.181:9999/udp/233.50.201.220:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 492ms
+Name: CCTV-5+, URL: http://111.8.224.6:8085/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 632ms
+Name: CCTV-5+, URL: http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 633ms
+Name: CCTV-6, URL: http://125.126.204.181:9999/udp/233.50.201.198:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 490ms
+Name: CCTV-6, URL: http://58.20.77.74:9002/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 496ms
+Name: CCTV-6, URL: http://125.126.204.181:9999/udp/233.50.200.109:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 501ms
+Name: CCTV-6, URL: http://125.126.204.181:9999/udp/233.50.201.198:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 503ms
+Name: CCTV-6, URL: http://113.220.232.121:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 522ms
+Name: CCTV-6, URL: http://202.100.46.58:9901/tsfile/live/1005_1.m3u8, Date: None, Resolution: None, Response Time: 529ms
+Name: CCTV-6, URL: http://175.0.35.92:8081/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 538ms
+Name: CCTV-6, URL: http://111.8.224.6:8085/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 629ms
+Name: CCTV-6, URL: http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 645ms
+Name: CCTV-6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1132ms
+Name: CCTV-6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1156ms
+Name: CCTV-6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1181ms
+Name: CCTV-7, URL: http://58.20.77.74:9002/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 486ms
+Name: CCTV-7, URL: http://125.126.204.181:9999/udp/233.50.201.120:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 490ms
+Name: CCTV-7, URL: http://125.126.204.181:9999/udp/233.50.200.24:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 493ms
+Name: CCTV-7, URL: http://125.126.204.181:9999/udp/233.50.200.24:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 502ms
+Name: CCTV-7, URL: http://113.220.232.121:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 522ms
+Name: CCTV-7, URL: http://175.0.35.92:8081/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 537ms
+Name: CCTV-7, URL: http://111.8.224.6:8085/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 637ms
+Name: CCTV-7, URL: http://116.128.242.83:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 643ms
+Name: CCTV-8, URL: http://58.20.77.74:9002/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 485ms
+Name: CCTV-8, URL: http://121.233.190.83:8600/rtp/239.49.9.34:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 492ms
+Name: CCTV-8, URL: http://125.126.204.181:9999/udp/233.50.200.110:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 493ms
+Name: CCTV-8, URL: http://125.126.204.181:9999/udp/233.50.200.110:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 502ms
 Name: CCTV-8, URL: http://175.0.35.92:8081/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 511ms
-Name: CCTV-8, URL: http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 614ms
-Name: CCTV-8, URL: http://111.8.224.6:8085/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 918ms
-Name: CCTV-8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 953ms
-Name: CCTV-9, URL: http://58.20.77.74:9002/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 462ms
-Name: CCTV-9, URL: http://49.83.250.201:10001/rtp/239.49.8.133:6000, Date: 10-29-2024, Resolution:  江苏省盐城市 • 組播源, Response Time: 472ms
-Name: CCTV-9, URL: http://113.220.232.121:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 489ms
-Name: CCTV-9, URL: http://175.0.35.92:8081/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
-Name: CCTV-9, URL: http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 595ms
-Name: CCTV-9, URL: http://111.8.224.6:8085/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 620ms
-Name: CCTV-10, URL: http://58.20.77.74:9002/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 447ms
-Name: CCTV-10, URL: http://183.149.180.183:9999/udp/233.50.200.22:5140, Date: 10-29-2024, Resolution:  浙江省台州市 • 組播源, Response Time: 468ms
-Name: CCTV-10, URL: http://113.220.232.121:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 485ms
-Name: CCTV-10, URL: http://175.0.35.92:8081/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: CCTV-10, URL: http://111.8.224.6:8085/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 613ms
-Name: CCTV-10, URL: http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 622ms
-Name: CCTV-11, URL: http://58.20.77.74:9002/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 447ms
-Name: CCTV-11, URL: http://115.230.189.151:9999/udp/233.50.201.11:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 458ms
-Name: CCTV-11, URL: http://113.220.232.121:9999/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 486ms
-Name: CCTV-11, URL: http://175.0.35.92:8081/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: CCTV-11, URL: http://116.128.242.83:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 558ms
-Name: CCTV-11, URL: http://111.8.224.6:8085/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1174ms
-Name: CCTV-12, URL: http://58.20.77.74:9002/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 462ms
-Name: CCTV-12, URL: http://183.149.180.183:9999/udp/233.50.201.123:5140, Date: 10-29-2024, Resolution:  浙江省台州市 • 組播源, Response Time: 473ms
-Name: CCTV-12, URL: http://113.220.232.121:9999/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 485ms
-Name: CCTV-12, URL: http://175.0.35.92:8081/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
-Name: CCTV-12, URL: http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 607ms
-Name: CCTV-12, URL: http://111.8.224.6:8085/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 747ms
-Name: CCTV-13, URL: http://58.20.77.74:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 463ms
-Name: CCTV-13, URL: http://183.149.180.183:9999/udp/233.50.200.111:5140, Date: 10-29-2024, Resolution:  浙江省台州市 • 組播源, Response Time: 468ms
-Name: CCTV-13, URL: http://175.0.35.92:8081/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: CCTV-13, URL: http://111.8.224.6:8085/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 625ms
-Name: CCTV-13, URL: http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 627ms
-Name: CCTV-14, URL: http://115.230.189.151:9999/udp/233.50.201.124:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 459ms
-Name: CCTV-14, URL: http://58.20.77.74:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 462ms
-Name: CCTV-14, URL: http://113.220.232.121:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 491ms
-Name: CCTV-14, URL: http://175.0.35.92:8081/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 520ms
-Name: CCTV-14, URL: http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 594ms
-Name: CCTV-14, URL: http://111.8.224.6:8085/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1209ms
-Name: CCTV-15, URL: http://58.20.77.74:9002/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 447ms
-Name: CCTV-15, URL: http://113.220.232.121:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 490ms
-Name: CCTV-15, URL: http://175.0.35.92:8081/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: CCTV-15, URL: http://171.213.131.154:4022/udp/239.93.0.103:5140, Date: 10-29-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 515ms
-Name: CCTV-15, URL: http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 596ms
-Name: CCTV-15, URL: http://111.8.224.6:8085/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 613ms
-Name: CCTV-16, URL: http://115.230.189.151:9999/udp/233.50.200.112:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 459ms
-Name: CCTV-17, URL: http://1.70.32.208:8083/udp/239.1.1.23:8023, Date: 10-29-2024, Resolution:  山西省长治市 • 組播源, Response Time: 502ms
-Name: CCTV-17, URL: http://111.8.224.6:8085/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1052ms
-Name: CCTV-17, URL: https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1216ms
-Name: 四川卫视, URL: http://58.20.77.74:9002/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 四川卫视, URL: http://175.0.35.92:8081/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 四川卫视, URL: http://171.213.131.154:4022/udp/239.93.0.20:1235, Date: 10-29-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 514ms
-Name: 四川卫视, URL: http://116.128.242.83:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 540ms
-Name: 四川卫视, URL: http://111.8.224.6:8085/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 967ms
-Name: 四川科教, URL: http://live.goodiptv.club/api/sxg.php?id=SCTV-ggSCTV-8_4000, Date: 12-18-2023, Resolution: None, Response Time: 1481ms
-Name: 四川新闻, URL: http://171.213.131.154:4022/udp/239.93.0.47:5140, Date: 10-29-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 515ms
-Name: 四川新闻, URL: http://live.goodiptv.club/api/sxg.php?id=SCTV-4H265_4000, Date: 12-18-2023, Resolution: None, Response Time: 1181ms
-Name: 四川经济, URL: http://171.213.131.154:4022/udp/239.93.1.102:5140, Date: 10-29-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 515ms
-Name: 四川经济, URL: http://live.goodiptv.club/api/sxg.php?id=SCTV-2-H265_4000, Date: 12-18-2023, Resolution: None, Response Time: 1177ms
-Name: 四川康定, URL: http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8?, Date: 10-18-2024, Resolution: 1280x720, Response Time: 1167ms
-Name: 四川康定, URL: http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8, Date: 10-01-2024, Resolution: None, Response Time: 828ms
-Name: 四川康定, URL: http://live.goodiptv.club/api/sxg.php?id=gzkdxwzh_2000, Date: 12-18-2023, Resolution: None, Response Time: 1223ms
-Name: 四川乡村, URL: http://171.213.131.154:4022/udp/239.93.0.52:5140, Date: 10-29-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 516ms
-Name: 四川乡村, URL: http://api2.52tb.xyz/info?id=606&token=20230405tndmhg, Date: 01-04-2024, Resolution: None, Response Time: 908ms
-Name: 四川乡村, URL: http://live.goodiptv.club/api/sxg.php?id=SCTV-kjSCTV-9-_4000, Date: 02-18-2024, Resolution: None, Response Time: 1225ms
-Name: 大湾区卫视, URL: http://1.70.32.208:8083/udp/239.1.1.69:8069, Date: 10-29-2024, Resolution:  山西省长治市 • 組播源, Response Time: 1015ms
-Name: 广东卫视, URL: http://58.20.77.74:9002/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 447ms
-Name: 广东卫视, URL: http://183.149.180.183:9999/udp/233.50.201.102:5140, Date: 10-29-2024, Resolution:  浙江省台州市 • 組播源, Response Time: 468ms
-Name: 广东卫视, URL: http://175.0.35.92:8081/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 广东卫视, URL: http://111.8.224.6:8085/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 609ms
-Name: 广东卫视, URL: http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1077ms
-Name: 浙江卫视, URL: http://58.20.77.74:9002/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 浙江卫视, URL: http://115.230.189.151:9999/udp/233.50.201.100:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 462ms
-Name: 浙江卫视, URL: http://113.220.232.121:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 491ms
-Name: 浙江卫视, URL: http://175.0.35.92:8081/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: 浙江卫视, URL: http://111.8.224.6:8085/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 606ms
-Name: 浙江卫视, URL: http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1248ms
-Name: 湖南卫视, URL: http://58.20.77.74:9002/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 447ms
-Name: 湖南卫视, URL: http://113.220.232.121:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 490ms
-Name: 湖南卫视, URL: http://175.0.35.92:8081/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: 湖南卫视, URL: http://171.213.131.154:4022/udp/239.93.0.88:5140, Date: 10-29-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 514ms
-Name: 湖南卫视, URL: http://116.128.242.83:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 523ms
-Name: 湖南卫视, URL: http://111.8.224.6:8085/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 624ms
-Name: 北京卫视, URL: http://58.20.77.74:9002/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 北京卫视, URL: http://115.230.189.151:9999/udp/233.50.201.107:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 463ms
-Name: 北京卫视, URL: http://113.220.232.121:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 490ms
-Name: 北京卫视, URL: http://124.128.73.58:9901/tsfile/live/0122_1.m3u8, Date: None, Resolution: None, Response Time: 494ms
+Name: CCTV-8, URL: http://113.220.232.121:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 535ms
+Name: CCTV-8, URL: http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 651ms
+Name: CCTV-8, URL: http://111.8.224.6:8085/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 662ms
+Name: CCTV-8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 1025ms
+Name: CCTV-8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 1030ms
+Name: CCTV-8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 1042ms
+Name: CCTV-9, URL: http://58.20.77.74:9002/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 488ms
+Name: CCTV-9, URL: http://125.126.204.181:9999/udp/233.50.201.121:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 491ms
+Name: CCTV-9, URL: http://125.126.204.181:9999/udp/233.50.200.23:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 492ms
+Name: CCTV-9, URL: http://123.118.224.199:9090/rtp/239.3.1.62:8112, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 507ms
+Name: CCTV-9, URL: http://175.0.35.92:8081/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 512ms
+Name: CCTV-9, URL: http://113.220.232.121:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 535ms
+Name: CCTV-9, URL: http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 637ms
+Name: CCTV-9, URL: http://111.8.224.6:8085/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 650ms
+Name: CCTV-10, URL: http://121.233.190.83:8600/rtp/239.49.8.134:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 483ms
+Name: CCTV-10, URL: http://58.20.77.74:9002/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 496ms
+Name: CCTV-10, URL: http://125.126.204.181:9999/udp/233.50.200.22:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 502ms
+Name: CCTV-10, URL: http://123.118.224.199:9090/rtp/239.3.1.63:8116, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 507ms
+Name: CCTV-10, URL: http://113.220.232.121:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 524ms
+Name: CCTV-10, URL: http://175.0.35.92:8081/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 538ms
+Name: CCTV-10, URL: http://111.8.224.6:8085/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 642ms
+Name: CCTV-10, URL: http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 666ms
+Name: CCTV-11, URL: http://58.20.77.74:9002/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 486ms
+Name: CCTV-11, URL: http://112.66.225.119:554/rtp/239.253.64.70:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 497ms
+Name: CCTV-11, URL: http://123.118.224.199:9090/rtp/239.3.1.152:8120, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 498ms
+Name: CCTV-11, URL: http://123.118.224.199:9090/rtp/239.3.1.152:8120, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 514ms
+Name: CCTV-11, URL: http://113.220.232.121:9999/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 527ms
+Name: CCTV-11, URL: http://175.0.35.92:8081/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 538ms
+Name: CCTV-11, URL: http://116.128.242.83:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 651ms
+Name: CCTV-11, URL: http://111.8.224.6:8085/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 656ms
+Name: CCTV-12, URL: http://121.233.190.83:8600/rtp/239.49.8.135:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 484ms
+Name: CCTV-12, URL: http://58.20.77.74:9002/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 486ms
+Name: CCTV-12, URL: http://125.126.204.181:9999/udp/233.50.200.21:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 502ms
+Name: CCTV-12, URL: http://221.219.100.121:2323/rtp/239.3.1.64:8124, Date: 10-30-2024, Resolution:  北京市昌平区 • 組播源, Response Time: 507ms
+Name: CCTV-12, URL: http://175.0.35.92:8081/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
+Name: CCTV-12, URL: http://113.220.232.121:9999/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 525ms
+Name: CCTV-12, URL: http://111.8.224.6:8085/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 637ms
+Name: CCTV-12, URL: http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 665ms
+Name: CCTV-13, URL: http://58.20.77.74:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 487ms
+Name: CCTV-13, URL: http://125.126.204.181:9999/udp/233.50.200.111:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 491ms
+Name: CCTV-13, URL: http://125.126.204.181:9999/udp/233.50.201.246:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 502ms
+Name: CCTV-13, URL: http://221.219.100.121:2323/rtp/239.3.1.124:8128, Date: 10-30-2024, Resolution:  北京市昌平区 • 組播源, Response Time: 506ms
+Name: CCTV-13, URL: http://175.0.35.92:8081/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
+Name: CCTV-13, URL: http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 618ms
+Name: CCTV-13, URL: http://111.8.224.6:8085/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 654ms
+Name: CCTV-14, URL: http://58.20.77.74:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 477ms
+Name: CCTV-14, URL: http://125.126.204.181:9999/udp/233.50.200.20:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 499ms
+Name: CCTV-14, URL: http://112.66.225.119:554/rtp/239.253.64.115:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 509ms
+Name: CCTV-14, URL: http://175.0.35.92:8081/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 538ms
+Name: CCTV-14, URL: http://113.220.232.121:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 550ms
+Name: CCTV-14, URL: http://111.8.224.6:8085/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 639ms
+Name: CCTV-14, URL: http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 646ms
+Name: CCTV-14, URL: http://112.66.225.119:554/rtp/239.253.64.115:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 765ms
+Name: CCTV-15, URL: http://123.118.224.199:9090/rtp/239.3.1.153:8136, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 493ms
+Name: CCTV-15, URL: http://58.20.77.74:9002/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 495ms
+Name: CCTV-15, URL: http://221.219.100.121:2323/rtp/239.3.1.153:8136, Date: 10-30-2024, Resolution:  北京市昌平区 • 組播源, Response Time: 505ms
+Name: CCTV-15, URL: http://123.118.224.199:9090/rtp/239.3.1.153:8136, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 506ms
+Name: CCTV-15, URL: http://175.0.35.92:8081/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 518ms
+Name: CCTV-15, URL: http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 604ms
+Name: CCTV-15, URL: http://111.8.224.6:8085/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 627ms
+Name: CCTV-15, URL: http://113.220.232.121:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1551ms
+Name: CCTV-16, URL: http://112.66.225.119:554/rtp/239.253.64.251:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 493ms
+Name: CCTV-16, URL: http://125.126.204.181:9999/udp/233.50.200.112:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 500ms
+Name: CCTV-16, URL: http://221.219.100.121:2323/rtp/239.3.1.184:8001, Date: 10-30-2024, Resolution:  北京市昌平区 • 組播源, Response Time: 501ms
+Name: CCTV-17, URL: http://112.66.225.119:554/rtp/239.253.64.67:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 493ms
+Name: CCTV-17, URL: http://112.66.225.119:554/rtp/239.253.64.67:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 495ms
+Name: CCTV-17, URL: http://112.66.225.119:554/rtp/239.253.64.67:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 498ms
+Name: CCTV-17, URL: http://111.8.224.6:8085/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 649ms
+Name: CCTV-17, URL: https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1025ms
+Name: CCTV-17, URL: https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1049ms
+Name: CCTV-17, URL: https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1051ms
+Name: 四川卫视, URL: http://58.20.77.74:9002/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 475ms
+Name: 四川卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.184:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 485ms
+Name: 四川卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.184:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 488ms
+Name: 四川卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.184:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 491ms
+Name: 四川卫视, URL: http://125.126.204.181:9999/udp/233.50.201.139:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 491ms
+Name: 四川卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.184:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 500ms
+Name: 四川卫视, URL: http://175.0.35.92:8081/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 537ms
+Name: 四川卫视, URL: http://116.128.242.83:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 568ms
+Name: 四川卫视, URL: http://111.8.224.6:8085/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 607ms
+Name: 四川科教, URL: http://live.goodiptv.club/api/sxg.php?id=SCTV-ggSCTV-8_4000, Date: 12-18-2023, Resolution: None, Response Time: 1322ms
+Name: 四川新闻, URL: http://221.237.92.253:9999/udp/239.93.0.47:5140, Date: 10-28-2024, Resolution:  四川省成都市 • 組播源, Response Time: 531ms
+Name: 四川新闻, URL: http://live.goodiptv.club/api/sxg.php?id=SCTV-4H265_4000, Date: 12-18-2023, Resolution: None, Response Time: 1341ms
+Name: 四川经济, URL: http://221.237.92.253:9999/udp/239.93.1.16:5140, Date: 10-28-2024, Resolution:  四川省成都市 • 組播源, Response Time: 557ms
+Name: 四川经济, URL: http://live.goodiptv.club/api/sxg.php?id=SCTV-2-H265_4000, Date: 12-18-2023, Resolution: None, Response Time: 1298ms
+Name: 四川康定, URL: http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8?, Date: 10-18-2024, Resolution: 1280x720, Response Time: 1406ms
+Name: 四川康定, URL: http://live.goodiptv.club/api/sxg.php?id=gzkdxwzh_2000, Date: 12-18-2023, Resolution: None, Response Time: 1320ms
+Name: 四川康定, URL: http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8, Date: 10-01-2024, Resolution: None, Response Time: 1405ms
+Name: 四川乡村, URL: http://221.237.92.253:9999/udp/239.93.0.52:5140, Date: 10-28-2024, Resolution:  四川省成都市 • 組播源, Response Time: 532ms
+Name: 四川乡村, URL: http://api2.52tb.xyz/info?id=606&token=20230405tndmhg, Date: 01-04-2024, Resolution: None, Response Time: 752ms
+Name: 四川乡村, URL: http://live.goodiptv.club/api/sxg.php?id=SCTV-kjSCTV-9-_4000, Date: 02-18-2024, Resolution: None, Response Time: 1309ms
+Name: 大湾区卫视, URL: http://1.70.32.208:8083/udp/239.1.1.69:8069, Date: 10-29-2024, Resolution:  山西省长治市 • 組播源, Response Time: 525ms
+Name: 大湾区卫视, URL: http://1.70.32.208:8083/udp/239.1.1.69:8069, Date: 10-29-2024, Resolution:  山西省长治市 • 組播源, Response Time: 547ms
+Name: 大湾区卫视, URL: http://1.70.32.208:8083/udp/239.1.1.69:8069, Date: 10-29-2024, Resolution:  山西省长治市 • 組播源, Response Time: 559ms
+Name: 广东卫视, URL: http://58.20.77.74:9002/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 480ms
+Name: 广东卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.143:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 484ms
+Name: 广东卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.143:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 490ms
+Name: 广东卫视, URL: http://125.126.204.181:9999/udp/233.50.200.187:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 493ms
+Name: 广东卫视, URL: http://221.219.100.121:2323/rtp/239.3.1.142:8048, Date: 10-30-2024, Resolution:  北京市昌平区 • 組播源, Response Time: 506ms
+Name: 广东卫视, URL: http://221.219.100.121:2323/rtp/239.3.1.142:8048, Date: 10-30-2024, Resolution:  北京市昌平区 • 組播源, Response Time: 514ms
+Name: 广东卫视, URL: http://175.0.35.92:8081/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
+Name: 广东卫视, URL: http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 549ms
+Name: 广东卫视, URL: http://111.8.224.6:8085/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 969ms
+Name: 浙江卫视, URL: http://183.156.94.70:4022/udp/233.50.200.145:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 481ms
+Name: 浙江卫视, URL: http://183.156.94.70:4022/udp/233.50.200.231:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 482ms
+Name: 浙江卫视, URL: http://58.20.77.74:9002/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 485ms
+Name: 浙江卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.139:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 489ms
+Name: 浙江卫视, URL: http://183.156.94.70:4022/udp/233.50.200.145:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 490ms
+Name: 浙江卫视, URL: http://123.118.224.199:9090/rtp/239.3.1.137:8036, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 508ms
+Name: 浙江卫视, URL: http://175.0.35.92:8081/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 518ms
+Name: 浙江卫视, URL: http://113.220.232.121:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 542ms
+Name: 浙江卫视, URL: http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 543ms
+Name: 浙江卫视, URL: http://111.8.224.6:8085/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 661ms
+Name: 湖南卫视, URL: http://58.20.77.74:9002/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 480ms
+Name: 湖南卫视, URL: http://183.156.94.70:4022/udp/233.50.201.103:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 481ms
+Name: 湖南卫视, URL: http://183.156.94.70:4022/udp/233.50.200.190:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 482ms
+Name: 湖南卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.142:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 490ms
+Name: 湖南卫视, URL: http://183.156.94.70:4022/udp/233.50.201.103:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 500ms
+Name: 湖南卫视, URL: http://221.219.100.121:2323/rtp/239.3.1.132:8012, Date: 10-30-2024, Resolution:  北京市昌平区 • 組播源, Response Time: 515ms
+Name: 湖南卫视, URL: http://175.0.35.92:8081/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
+Name: 湖南卫视, URL: http://113.220.232.121:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 542ms
+Name: 湖南卫视, URL: http://111.8.224.6:8085/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 644ms
+Name: 湖南卫视, URL: http://116.128.242.83:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1108ms
+Name: 北京卫视, URL: http://58.20.77.74:9002/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 480ms
+Name: 北京卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.141:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 484ms
+Name: 北京卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.141:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 489ms
+Name: 北京卫视, URL: http://112.66.225.119:554/rtp/239.253.64.204:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 498ms
 Name: 北京卫视, URL: http://175.0.35.92:8081/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
-Name: 北京卫视, URL: http://116.128.242.83:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 535ms
-Name: 北京卫视, URL: http://111.8.224.6:8085/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 935ms
-Name: 湖北卫视, URL: http://58.20.77.74:9002/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 湖北卫视, URL: http://115.230.189.151:9999/udp/233.50.200.147:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 461ms
-Name: 湖北卫视, URL: http://175.0.35.92:8081/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: 湖北卫视, URL: http://116.128.242.83:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 581ms
-Name: 湖北卫视, URL: http://111.8.224.6:8085/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 616ms
-Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1017ms
-Name: 黑龙江卫视, URL: http://58.20.77.74:9002/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 黑龙江卫视, URL: http://1.70.34.145:8083/udp/239.1.1.37:8037, Date: 10-29-2024, Resolution:  山西省长治市 • 組播源, Response Time: 501ms
-Name: 黑龙江卫视, URL: http://175.0.35.92:8081/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 黑龙江卫视, URL: http://116.128.242.83:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 594ms
-Name: 黑龙江卫视, URL: http://111.8.224.6:8085/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 617ms
-Name: 安徽卫视, URL: http://58.20.77.74:9002/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 468ms
-Name: 安徽卫视, URL: http://49.83.250.201:10001/rtp/239.49.8.204:6000, Date: 10-29-2024, Resolution:  江苏省盐城市 • 組播源, Response Time: 472ms
-Name: 安徽卫视, URL: http://113.220.232.121:9999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 498ms
-Name: 安徽卫视, URL: http://175.0.35.92:8081/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 安徽卫视, URL: http://116.128.242.83:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 612ms
-Name: 安徽卫视, URL: http://111.8.224.6:8085/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 843ms
-Name: 重庆卫视, URL: http://58.20.77.74:9002/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 重庆卫视, URL: http://175.0.35.92:8081/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: 重庆卫视, URL: http://171.213.131.154:4022/udp/239.93.1.107:5140, Date: 10-29-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 515ms
-Name: 重庆卫视, URL: http://116.128.242.83:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 604ms
-Name: 重庆卫视, URL: http://111.8.224.6:8085/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 617ms
-Name: 东方卫视, URL: http://58.20.77.74:9002/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 447ms
-Name: 东方卫视, URL: http://183.149.180.183:9999/udp/233.50.201.125:5140, Date: 10-29-2024, Resolution:  浙江省台州市 • 組播源, Response Time: 468ms
-Name: 东方卫视, URL: http://113.220.232.121:9999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 489ms
-Name: 东方卫视, URL: http://175.0.35.92:8081/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: 东方卫视, URL: http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 565ms
-Name: 东方卫视, URL: http://111.8.224.6:8085/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 644ms
-Name: 东南卫视, URL: http://58.20.77.74:9002/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 东南卫视, URL: http://115.58.178.165:58888/rtp/225.1.4.228:1274, Date: 10-29-2024, Resolution:  河南省驻马店市 • 組播源, Response Time: 462ms
-Name: 东南卫视, URL: http://175.0.35.92:8081/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 东南卫视, URL: http://116.128.242.83:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 535ms
-Name: 东南卫视, URL: http://111.8.224.6:8085/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 592ms
-Name: 甘肃卫视, URL: http://171.213.131.154:4022/udp/239.93.0.81:5140, Date: 10-29-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 516ms
-Name: 甘肃卫视, URL: http://202.100.46.58:9901/tsfile/live/1035_1.m3u8, Date: None, Resolution: None, Response Time: 518ms
-Name: 广西卫视, URL: http://175.0.35.92:8081/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 广西卫视, URL: http://171.213.131.154:4022/udp/239.93.42.46:5140, Date: 10-29-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 515ms
-Name: 贵州卫视, URL: http://58.20.77.74:9002/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 452ms
-Name: 贵州卫视, URL: http://175.0.35.92:8081/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
-Name: 贵州卫视, URL: http://171.213.131.154:4022/udp/239.93.0.131:5140, Date: 10-29-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 515ms
-Name: 贵州卫视, URL: http://202.100.46.58:9901/tsfile/live/1034_1.m3u8, Date: None, Resolution: None, Response Time: 524ms
-Name: 贵州卫视, URL: http://111.8.224.6:8085/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 767ms
-Name: 海南卫视, URL: http://58.20.77.74:9002/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 447ms
-Name: 海南卫视, URL: http://49.83.250.201:10001/rtp/239.49.8.212:6000, Date: 10-29-2024, Resolution:  江苏省盐城市 • 組播源, Response Time: 480ms
-Name: 海南卫视, URL: http://175.0.35.92:8081/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1106ms
-Name: 河北卫视, URL: http://115.230.189.151:9999/udp/233.50.200.105:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 459ms
-Name: 河北卫视, URL: http://58.20.77.74:9002/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 462ms
-Name: 河北卫视, URL: http://175.0.35.92:8081/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 511ms
-Name: 河北卫视, URL: http://116.128.242.83:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 538ms
-Name: 河北卫视, URL: http://111.8.224.6:8085/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 632ms
-Name: 河南卫视, URL: http://115.230.189.151:9999/udp/233.50.201.144:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 459ms
-Name: 河南卫视, URL: http://175.0.35.92:8081/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 河南卫视, URL: http://111.8.224.6:8085/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 602ms
-Name: 吉林卫视, URL: http://58.20.77.74:9002/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 447ms
-Name: 吉林卫视, URL: http://58.219.226.8:8001/rtp/239.49.8.187:6000, Date: 10-29-2024, Resolution:  江苏省盐城市 • 組播源, Response Time: 476ms
-Name: 吉林卫视, URL: http://175.0.35.92:8081/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 吉林卫视, URL: http://111.8.224.6:8085/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 617ms
-Name: 江苏卫视, URL: http://58.20.77.74:9002/tsfile/live/0127_2.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 江苏卫视, URL: http://113.220.232.121:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 490ms
-Name: 江苏卫视, URL: http://175.0.35.92:8081/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 江苏卫视, URL: http://171.213.131.154:4022/udp/239.93.0.89:5140, Date: 10-29-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 515ms
-Name: 江苏卫视, URL: http://116.128.242.83:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 534ms
-Name: 江苏卫视, URL: http://111.8.224.6:8085/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 586ms
-Name: 江西卫视, URL: http://58.20.77.74:9002/tsfile/live/0138_2.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 江西卫视, URL: http://115.230.189.151:9999/udp/233.50.200.119:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 475ms
-Name: 江西卫视, URL: http://113.220.232.121:9999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 490ms
-Name: 江西卫视, URL: http://175.0.35.92:8081/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: 江西卫视, URL: http://116.128.242.83:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 583ms
-Name: 江西卫视, URL: http://111.8.224.6:8085/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 611ms
-Name: 辽宁卫视, URL: http://58.20.77.74:9002/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 辽宁卫视, URL: http://113.220.232.121:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 492ms
-Name: 辽宁卫视, URL: http://175.0.35.92:8081/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 辽宁卫视, URL: http://1.70.32.208:8083/udp/239.1.1.42:8042, Date: 10-29-2024, Resolution:  山西省长治市 • 組播源, Response Time: 515ms
-Name: 辽宁卫视, URL: http://116.128.242.83:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 539ms
-Name: 辽宁卫视, URL: http://111.8.224.6:8085/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 594ms
-Name: 内蒙古卫视, URL: http://58.219.226.8:8001/rtp/239.49.1.240:6000, Date: 10-29-2024, Resolution:  江苏省盐城市 • 組播源, Response Time: 473ms
-Name: 内蒙古卫视, URL: http://175.0.35.92:8081/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
-Name: 内蒙古卫视, URL: http://111.8.224.6:8085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 613ms
-Name: 宁夏卫视, URL: http://58.20.77.74:9002/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 宁夏卫视, URL: http://183.184.165.90:8005/rtp/226.0.2.64:8424, Date: 10-29-2024, Resolution:  山西省太原市 • 組播源, Response Time: 473ms
-Name: 宁夏卫视, URL: http://175.0.35.92:8081/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 宁夏卫视, URL: http://111.8.224.6:8085/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 596ms
-Name: 青海卫视, URL: http://60.162.65.111:9999/udp/233.50.201.65:5140, Date: 10-29-2024, Resolution:  浙江省台州市 • 組播源, Response Time: 465ms
-Name: 青海卫视, URL: http://124.128.73.58:9901/tsfile/live/0140_1.m3u8, Date: None, Resolution: None, Response Time: 497ms
-Name: 青海卫视, URL: http://111.8.224.6:8085/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1439ms
-Name: 山东卫视, URL: http://58.20.77.74:9002/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 山东卫视, URL: http://115.58.178.165:58888/rtp/225.1.4.88:1117, Date: 10-29-2024, Resolution:  河南省驻马店市 • 組播源, Response Time: 462ms
-Name: 山东卫视, URL: http://116.128.242.83:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 487ms
-Name: 山东卫视, URL: http://175.0.35.92:8081/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: 山东卫视, URL: http://111.8.224.6:8085/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 616ms
-Name: 山西卫视, URL: http://183.184.165.90:8005/rtp/226.0.2.152:9128, Date: 10-29-2024, Resolution:  山西省太原市 • 組播源, Response Time: 475ms
-Name: 山西卫视, URL: http://175.0.35.92:8081/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 陕西卫视, URL: http://175.0.35.92:8081/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: 陕西卫视, URL: http://202.100.46.58:9901/tsfile/live/1017_1.m3u8, Date: None, Resolution: None, Response Time: 1106ms
-Name: 陕西卫视, URL: http://1.70.32.208:8083/udp/239.1.1.50:8050, Date: 10-29-2024, Resolution:  山西省长治市 • 組播源, Response Time: 1519ms
-Name: 陕西卫视, URL: http://111.8.224.6:8085/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 2820ms
-Name: 四川卫视, URL: http://58.20.77.74:9002/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 447ms
-Name: 四川卫视, URL: http://175.0.35.92:8081/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: 四川卫视, URL: http://116.128.242.83:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 533ms
-Name: 四川卫视, URL: http://1.70.32.208:8083/udp/239.1.1.29:8029, Date: 10-29-2024, Resolution:  山西省长治市 • 組播源, Response Time: 601ms
-Name: 四川卫视, URL: http://111.8.224.6:8085/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 846ms
-Name: 深圳卫视, URL: http://58.20.77.74:9002/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 深圳卫视, URL: http://60.162.65.111:9999/udp/233.50.201.101:5140, Date: 10-29-2024, Resolution:  浙江省台州市 • 組播源, Response Time: 473ms
-Name: 深圳卫视, URL: http://113.220.232.121:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 490ms
-Name: 深圳卫视, URL: http://175.0.35.92:8081/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 深圳卫视, URL: http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1301ms
-Name: 深圳卫视, URL: http://111.8.224.6:8085/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1372ms
-Name: 三沙卫视, URL: http://115.58.178.165:58888/rtp/225.1.4.234:1280, Date: 10-29-2024, Resolution:  河南省驻马店市 • 組播源, Response Time: 462ms
-Name: 天津卫视, URL: http://58.20.77.74:9002/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 447ms
-Name: 天津卫视, URL: http://183.149.180.183:9999/udp/233.50.200.104:5140, Date: 10-29-2024, Resolution:  浙江省台州市 • 組播源, Response Time: 468ms
+Name: 北京卫视, URL: http://124.128.73.58:9901/tsfile/live/0122_1.m3u8, Date: None, Resolution: None, Response Time: 537ms
+Name: 北京卫视, URL: http://116.128.242.83:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 552ms
+Name: 北京卫视, URL: http://113.220.232.121:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 560ms
+Name: 北京卫视, URL: http://111.8.224.6:8085/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 644ms
+Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 488ms
+Name: 湖北卫视, URL: http://125.126.204.181:9999/udp/233.50.200.147:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 496ms
+Name: 湖北卫视, URL: http://58.20.77.74:9002/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 503ms
+Name: 湖北卫视, URL: http://125.126.204.181:9999/udp/233.50.201.114:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 509ms
+Name: 湖北卫视, URL: http://123.118.224.199:9090/rtp/239.3.1.138:8044, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 510ms
+Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 514ms
+Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 517ms
+Name: 湖北卫视, URL: http://175.0.35.92:8081/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 538ms
+Name: 湖北卫视, URL: http://116.128.242.83:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 638ms
+Name: 湖北卫视, URL: http://111.8.224.6:8085/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 658ms
+Name: 黑龙江卫视, URL: http://125.126.204.181:9999/udp/233.50.200.189:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 492ms
+Name: 黑龙江卫视, URL: http://58.20.77.74:9002/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 493ms
+Name: 黑龙江卫视, URL: http://112.66.225.119:554/rtp/239.253.64.205:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 493ms
+Name: 黑龙江卫视, URL: http://123.118.224.199:9090/rtp/239.3.1.133:8016, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 508ms
+Name: 黑龙江卫视, URL: http://175.0.35.92:8081/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 536ms
+Name: 黑龙江卫视, URL: http://116.128.242.83:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 632ms
+Name: 黑龙江卫视, URL: http://111.8.224.6:8085/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 654ms
+Name: 安徽卫视, URL: http://58.20.77.74:9002/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 482ms
+Name: 安徽卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.204:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 485ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 486ms
+Name: 安徽卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.204:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 490ms
+Name: 安徽卫视, URL: http://221.219.100.121:2323/rtp/239.3.1.211:8064, Date: 10-30-2024, Resolution:  北京市昌平区 • 組播源, Response Time: 513ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 520ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 522ms
+Name: 安徽卫视, URL: http://175.0.35.92:8081/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 525ms
+Name: 安徽卫视, URL: http://113.220.232.121:9999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 557ms
+Name: 安徽卫视, URL: http://116.128.242.83:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 557ms
+Name: 安徽卫视, URL: http://111.8.224.6:8085/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 650ms
+Name: 重庆卫视, URL: http://58.20.77.74:9002/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 483ms
+Name: 重庆卫视, URL: http://125.126.204.181:9999/udp/233.50.201.143:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 499ms
+Name: 重庆卫视, URL: http://112.66.225.119:554/rtp/239.253.64.55:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 505ms
+Name: 重庆卫视, URL: http://221.219.100.121:2323/rtp/239.3.1.122:8160, Date: 10-30-2024, Resolution:  北京市昌平区 • 組播源, Response Time: 510ms
+Name: 重庆卫视, URL: http://175.0.35.92:8081/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 523ms
+Name: 重庆卫视, URL: http://116.128.242.83:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 622ms
+Name: 重庆卫视, URL: http://111.8.224.6:8085/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1083ms
+Name: 东方卫视, URL: http://58.20.77.74:9002/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 480ms
+Name: 东方卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.140:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 484ms
+Name: 东方卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.140:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 490ms
+Name: 东方卫视, URL: http://183.156.94.70:4022/udp/233.50.200.146:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 491ms
+Name: 东方卫视, URL: http://175.0.35.92:8081/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 519ms
+Name: 东方卫视, URL: http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 558ms
+Name: 东方卫视, URL: http://113.220.232.121:9999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 559ms
+Name: 东方卫视, URL: http://111.8.224.6:8085/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 641ms
+Name: 东南卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.186:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 485ms
+Name: 东南卫视, URL: http://58.20.77.74:9002/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 488ms
+Name: 东南卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.186:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 489ms
+Name: 东南卫视, URL: http://112.66.225.119:554/rtp/239.253.64.66:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 492ms
+Name: 东南卫视, URL: http://175.0.35.92:8081/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 519ms
+Name: 东南卫视, URL: http://116.128.242.83:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 623ms
+Name: 东南卫视, URL: http://111.8.224.6:8085/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 648ms
+Name: 甘肃卫视, URL: http://121.233.190.83:8600/rtp/239.49.1.238:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 485ms
+Name: 甘肃卫视, URL: http://121.233.190.83:8600/rtp/239.49.1.238:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 488ms
+Name: 甘肃卫视, URL: http://121.233.190.83:8600/rtp/239.49.1.238:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 491ms
+Name: 甘肃卫视, URL: http://202.100.46.58:9901/tsfile/live/1035_1.m3u8, Date: None, Resolution: None, Response Time: 586ms
+Name: 广西卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.209:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 493ms
+Name: 广西卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.209:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 493ms
+Name: 广西卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.209:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 513ms
+Name: 广西卫视, URL: http://175.0.35.92:8081/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 539ms
+Name: 贵州卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.174:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 485ms
+Name: 贵州卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.174:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 487ms
+Name: 贵州卫视, URL: http://58.20.77.74:9002/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 490ms
+Name: 贵州卫视, URL: http://125.126.204.181:9999/udp/233.50.201.142:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 502ms
+Name: 贵州卫视, URL: http://175.0.35.92:8081/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 528ms
+Name: 贵州卫视, URL: http://111.8.224.6:8085/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 661ms
+Name: 贵州卫视, URL: http://202.100.46.58:9901/tsfile/live/1034_1.m3u8, Date: None, Resolution: None, Response Time: 1175ms
+Name: 海南卫视, URL: http://112.66.225.119:554/rtp/239.253.64.253:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 496ms
+Name: 海南卫视, URL: http://112.66.225.119:554/rtp/239.253.64.253:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 496ms
+Name: 海南卫视, URL: http://58.20.77.74:9002/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 502ms
+Name: 海南卫视, URL: http://112.66.225.119:554/rtp/239.253.64.253:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 513ms
+Name: 海南卫视, URL: http://175.0.35.92:8081/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 516ms
+Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1398ms
+Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1406ms
+Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1439ms
+Name: 河北卫视, URL: http://58.20.77.74:9002/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 481ms
+Name: 河北卫视, URL: http://183.156.94.70:4022/udp/233.50.200.105:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 481ms
+Name: 河北卫视, URL: http://112.66.225.119:554/rtp/239.253.64.210:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 494ms
+Name: 河北卫视, URL: http://111.194.239.45:6060/rtp/239.3.1.148:8072, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 503ms
+Name: 河北卫视, URL: http://175.0.35.92:8081/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 545ms
+Name: 河北卫视, URL: http://116.128.242.83:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 568ms
+Name: 河北卫视, URL: http://111.8.224.6:8085/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1126ms
+Name: 河南卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.197:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 484ms
+Name: 河南卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.197:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 489ms
+Name: 河南卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.197:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 497ms
+Name: 河南卫视, URL: http://175.0.35.92:8081/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 521ms
+Name: 河南卫视, URL: http://111.8.224.6:8085/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 630ms
+Name: 吉林卫视, URL: http://58.20.77.74:9002/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 481ms
+Name: 吉林卫视, URL: http://112.66.225.119:554/rtp/239.253.64.57:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 493ms
+Name: 吉林卫视, URL: http://123.118.224.199:9090/rtp/239.3.1.240:8172, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 502ms
+Name: 吉林卫视, URL: http://123.118.224.199:9090/rtp/239.3.1.240:8172, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 510ms
+Name: 吉林卫视, URL: http://175.0.35.92:8081/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 524ms
+Name: 吉林卫视, URL: http://111.8.224.6:8085/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 659ms
+Name: 江苏卫视, URL: http://125.126.204.181:9999/udp/233.50.201.106:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 492ms
+Name: 江苏卫视, URL: http://112.66.225.119:554/rtp/239.253.64.202:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 493ms
+Name: 江苏卫视, URL: http://58.20.77.74:9002/tsfile/live/0127_2.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 494ms
+Name: 江苏卫视, URL: http://112.66.225.119:554/rtp/239.253.64.202:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 494ms
+Name: 江苏卫视, URL: http://175.0.35.92:8081/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 543ms
+Name: 江苏卫视, URL: http://116.128.242.83:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 545ms
+Name: 江苏卫视, URL: http://113.220.232.121:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 586ms
+Name: 江苏卫视, URL: http://111.8.224.6:8085/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 623ms
+Name: 江西卫视, URL: http://58.20.77.74:9002/tsfile/live/0138_2.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 481ms
+Name: 江西卫视, URL: http://183.156.94.70:4022/udp/233.50.200.119:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 481ms
+Name: 江西卫视, URL: http://183.156.94.70:4022/udp/233.50.201.145:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 492ms
+Name: 江西卫视, URL: http://125.126.204.181:9999/udp/233.50.201.145:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 492ms
+Name: 江西卫视, URL: http://116.128.242.83:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 536ms
+Name: 江西卫视, URL: http://175.0.35.92:8081/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 547ms
+Name: 江西卫视, URL: http://113.220.232.121:9999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 547ms
+Name: 江西卫视, URL: http://111.8.224.6:8085/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 630ms
+Name: 辽宁卫视, URL: http://58.20.77.74:9002/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 481ms
+Name: 辽宁卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.173:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 489ms
+Name: 辽宁卫视, URL: http://111.194.239.45:6060/rtp/239.3.1.210:8056, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 504ms
+Name: 辽宁卫视, URL: http://175.0.35.92:8081/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 519ms
+Name: 辽宁卫视, URL: http://116.128.242.83:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 555ms
+Name: 辽宁卫视, URL: http://113.220.232.121:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 582ms
+Name: 辽宁卫视, URL: http://117.65.58.254:4022/rtp/238.1.78.21:6096, Date: 10-30-2024, Resolution:  安徽省蚌埠市 • 組播源, Response Time: 592ms
+Name: 辽宁卫视, URL: http://111.8.224.6:8085/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 641ms
+Name: 内蒙古卫视, URL: http://112.66.225.119:554/rtp/239.253.64.144:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 493ms
+Name: 内蒙古卫视, URL: http://171.213.209.125:4000/udp/239.93.0.8:5140, Date: 10-30-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 533ms
+Name: 内蒙古卫视, URL: http://175.0.35.92:8081/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 563ms
+Name: 内蒙古卫视, URL: http://111.8.224.6:8085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 646ms
+Name: 宁夏卫视, URL: http://58.20.77.74:9002/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 480ms
+Name: 宁夏卫视, URL: http://112.66.225.119:554/rtp/239.253.64.89:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 495ms
+Name: 宁夏卫视, URL: http://112.66.225.119:554/rtp/239.253.64.89:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 496ms
+Name: 宁夏卫视, URL: http://112.66.225.119:554/rtp/239.253.64.71:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 501ms
+Name: 宁夏卫视, URL: http://175.0.35.92:8081/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526ms
+Name: 宁夏卫视, URL: http://111.8.224.6:8085/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1964ms
+Name: 青海卫视, URL: http://121.233.190.83:8600/rtp/239.49.1.31:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 485ms
+Name: 青海卫视, URL: http://221.219.100.121:2323/rtp/239.3.1.44:8184, Date: 10-30-2024, Resolution:  北京市昌平区 • 組播源, Response Time: 500ms
+Name: 青海卫视, URL: http://171.213.209.125:4000/udp/239.93.0.192:5140, Date: 10-30-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 593ms
+Name: 青海卫视, URL: http://124.128.73.58:9901/tsfile/live/0140_1.m3u8, Date: None, Resolution: None, Response Time: 1137ms
+Name: 青海卫视, URL: http://111.8.224.6:8085/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1960ms
+Name: 山东卫视, URL: http://58.20.77.74:9002/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 481ms
+Name: 山东卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.146:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 490ms
+Name: 山东卫视, URL: http://112.66.225.119:554/rtp/239.253.64.208:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 494ms
+Name: 山东卫视, URL: http://116.128.242.83:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 540ms
+Name: 山东卫视, URL: http://175.0.35.92:8081/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 549ms
+Name: 山东卫视, URL: http://117.65.58.254:4022/rtp/238.1.78.169:7224, Date: 10-30-2024, Resolution:  安徽省蚌埠市 • 組播源, Response Time: 671ms
+Name: 山东卫视, URL: http://111.8.224.6:8085/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1198ms
+Name: 山西卫视, URL: http://121.233.190.83:8600/rtp/239.49.1.51:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 484ms
+Name: 山西卫视, URL: http://121.233.190.83:8600/rtp/239.49.1.51:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 489ms
+Name: 山西卫视, URL: http://112.66.225.119:554/rtp/239.253.64.31:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 494ms
+Name: 山西卫视, URL: http://175.0.35.92:8081/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 518ms
+Name: 陕西卫视, URL: http://125.126.204.181:9999/udp/233.50.201.59:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 489ms
+Name: 陕西卫视, URL: http://125.126.204.181:9999/udp/233.50.201.59:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 493ms
+Name: 陕西卫视, URL: http://175.0.35.92:8081/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 520ms
+Name: 陕西卫视, URL: http://125.126.204.181:9999/udp/233.50.201.59:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 779ms
+Name: 陕西卫视, URL: http://202.100.46.58:9901/tsfile/live/1017_1.m3u8, Date: None, Resolution: None, Response Time: 1574ms
+Name: 陕西卫视, URL: http://111.8.224.6:8085/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1601ms
+Name: 四川卫视, URL: http://58.20.77.74:9002/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 481ms
+Name: 四川卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.184:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 484ms
+Name: 四川卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.184:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 488ms
+Name: 四川卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.184:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 488ms
+Name: 四川卫视, URL: http://125.126.204.181:9999/udp/233.50.201.139:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 492ms
+Name: 四川卫视, URL: http://121.233.190.83:8600/rtp/239.49.8.184:6000, Date: 10-30-2024, Resolution:  江苏省扬州市 • 組播源, Response Time: 496ms
+Name: 四川卫视, URL: http://175.0.35.92:8081/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526ms
+Name: 四川卫视, URL: http://116.128.242.83:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 545ms
+Name: 四川卫视, URL: http://111.8.224.6:8085/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 648ms
+Name: 深圳卫视, URL: http://58.20.77.74:9002/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 481ms
+Name: 深圳卫视, URL: http://123.118.224.199:9090/rtp/239.3.1.134:8020, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 488ms
+Name: 深圳卫视, URL: http://123.118.224.199:9090/rtp/239.3.1.134:8020, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 506ms
+Name: 深圳卫视, URL: http://123.118.224.199:9090/rtp/239.3.1.134:8020, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 512ms
+Name: 深圳卫视, URL: http://175.0.35.92:8081/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 531ms
+Name: 深圳卫视, URL: http://113.220.232.121:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 564ms
+Name: 深圳卫视, URL: http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 618ms
+Name: 深圳卫视, URL: http://111.8.224.6:8085/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 650ms
+Name: 三沙卫视, URL: http://112.66.225.119:554/rtp/239.253.64.112:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 494ms
+Name: 三沙卫视, URL: http://112.66.225.119:554/rtp/239.253.64.112:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 495ms
+Name: 三沙卫视, URL: http://112.66.225.119:554/rtp/239.253.64.112:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 762ms
+Name: 天津卫视, URL: http://58.20.77.74:9002/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 486ms
+Name: 天津卫视, URL: http://123.118.224.199:9090/rtp/239.3.1.141:1234, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 497ms
 Name: 天津卫视, URL: http://175.0.35.92:8081/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 天津卫视, URL: http://116.128.242.83:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 524ms
-Name: 天津卫视, URL: http://111.8.224.6:8085/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1017ms
-Name: 西藏卫视, URL: http://58.20.77.74:9002/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 446ms
-Name: 西藏卫视, URL: http://221.196.34.247:4022/udp/225.1.1.51:5002, Date: 10-29-2024, Resolution:  天津市滨海新区 • 組播源, Response Time: 472ms
-Name: 西藏卫视, URL: http://175.0.35.92:8081/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
-Name: 西藏卫视, URL: http://111.8.224.6:8085/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 903ms
-Name: 新疆卫视, URL: http://106.42.108.91:2000/rtp/239.16.10.27:2000, Date: 10-29-2024, Resolution:  河南省南阳市邓州市 • 組播源, Response Time: 484ms
-Name: 新疆卫视, URL: http://175.0.35.92:8081/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
-Name: 新疆卫视, URL: http://111.8.224.6:8085/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1366ms
-Name: 云南卫视, URL: http://58.219.226.8:8001/rtp/239.49.8.227:6000, Date: 10-29-2024, Resolution:  江苏省盐城市 • 組播源, Response Time: 475ms
-Name: 云南卫视, URL: http://175.0.35.92:8081/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
-Name: 翡翠台, URL: http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619, Date: 06-05-2023, Resolution: None, Response Time: 198ms
-Name: 明珠台, URL: http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts, Date: 11-01-2023, Resolution: None, Response Time: 471ms
-Name: 凤凰中文, URL: http://115.230.189.151:9999/udp/233.50.200.42:5140, Date: 10-29-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 478ms
-Name: 凤凰资讯, URL: http://1.70.32.208:8083/udp/239.1.1.127:8127, Date: 10-29-2024, Resolution:  山西省长治市 • 組播源, Response Time: 1026ms
-Name: 凤凰香港, URL: http://42.92.117.243:8888/udp/239.255.30.123:8231, Date: 10-17-2024, Resolution:  甘肃省平凉市 • 組播源, Response Time: 526ms
-Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF, Date: 05-25-2023, Resolution: None, Response Time: 197ms
-Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA, Date: 05-25-2023, Resolution: None, Response Time: 200ms
+Name: 天津卫视, URL: http://123.118.224.199:9090/rtp/239.3.1.141:1234, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 523ms
+Name: 天津卫视, URL: http://116.128.242.83:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 591ms
+Name: 天津卫视, URL: http://111.8.224.6:8085/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1757ms
+Name: 西藏卫视, URL: http://125.126.204.181:9999/udp/233.50.201.70:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 493ms
+Name: 西藏卫视, URL: http://112.66.225.119:554/rtp/239.253.64.143:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 496ms
+Name: 西藏卫视, URL: http://123.118.224.199:9090/rtp/239.3.1.47:8164, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 497ms
+Name: 西藏卫视, URL: http://175.0.35.92:8081/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 512ms
+Name: 西藏卫视, URL: http://58.20.77.74:9002/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 518ms
+Name: 西藏卫视, URL: http://111.8.224.6:8085/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 710ms
+Name: 新疆卫视, URL: http://112.66.225.119:554/rtp/239.253.64.146:5140, Date: 10-30-2024, Resolution:  海南省海口市 • 組播源, Response Time: 498ms
+Name: 新疆卫视, URL: http://221.219.100.121:2323/rtp/239.3.1.48:8160, Date: 10-30-2024, Resolution:  北京市昌平区 • 組播源, Response Time: 502ms
+Name: 新疆卫视, URL: http://175.0.35.92:8081/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 511ms
+Name: 新疆卫视, URL: http://123.118.224.199:9090/rtp/239.3.1.48:8160, Date: 10-30-2024, Resolution:   • 組播源, Response Time: 529ms
+Name: 新疆卫视, URL: http://111.8.224.6:8085/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 707ms
+Name: 云南卫视, URL: http://183.156.94.70:4022/udp/233.50.200.115:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 476ms
+Name: 云南卫视, URL: http://183.156.94.70:4022/udp/233.50.200.115:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 488ms
+Name: 云南卫视, URL: http://183.156.94.70:4022/udp/233.50.200.115:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 488ms
+Name: 云南卫视, URL: http://175.0.35.92:8081/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
+Name: 翡翠台, URL: http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619, Date: 06-05-2023, Resolution: None, Response Time: 184ms
+Name: 翡翠台, URL: http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619, Date: 06-05-2023, Resolution: None, Response Time: 186ms
+Name: 翡翠台, URL: http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619, Date: 06-05-2023, Resolution: None, Response Time: 188ms
+Name: 明珠台, URL: http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts, Date: 11-01-2023, Resolution: None, Response Time: 534ms
+Name: 明珠台, URL: http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts, Date: 11-01-2023, Resolution: None, Response Time: 583ms
+Name: 明珠台, URL: http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts, Date: 11-01-2023, Resolution: None, Response Time: 634ms
+Name: 凤凰中文, URL: http://183.156.94.70:4022/udp/233.50.200.191:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 481ms
+Name: 凤凰中文, URL: http://183.156.94.70:4022/udp/233.50.200.42:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 484ms
+Name: 凤凰中文, URL: http://125.126.204.181:9999/udp/233.50.200.42:5140, Date: 10-30-2024, Resolution:  浙江省台州市黄岩区 • 組播源, Response Time: 491ms
+Name: 凤凰资讯, URL: http://183.156.94.70:4022/udp/233.50.200.192:5140, Date: 10-30-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 481ms
+Name: 凤凰资讯, URL: http://171.213.209.125:4000/udp/239.93.1.4:2191, Date: 10-30-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 531ms
+Name: 凤凰资讯, URL: http://171.213.209.125:4000/udp/239.93.1.4:2191, Date: 10-30-2024, Resolution:  四川省乐山市 • 組播源, Response Time: 533ms
+Name: 凤凰香港, URL: http://60.164.128.167:8029/udp/239.255.30.123:8231, Date: 10-07-2024, Resolution:  甘肃省武威市 • 組播源, Response Time: 554ms
+Name: 凤凰香港, URL: http://60.164.128.167:8029/udp/239.255.30.123:8231, Date: 10-07-2024, Resolution:  甘肃省武威市 • 組播源, Response Time: 557ms
+Name: 凤凰香港, URL: http://60.164.128.167:8029/udp/239.255.30.123:8231, Date: 10-07-2024, Resolution:  甘肃省武威市 • 組播源, Response Time: 585ms
+Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA, Date: 05-25-2023, Resolution: None, Response Time: 181ms
+Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF, Date: 05-25-2023, Resolution: None, Response Time: 182ms
+Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA, Date: 05-25-2023, Resolution: None, Response Time: 186ms
+Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA, Date: 05-25-2023, Resolution: None, Response Time: 186ms
+Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF, Date: 05-25-2023, Resolution: None, Response Time: 187ms
+Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF, Date: 05-25-2023, Resolution: None, Response Time: 188ms
